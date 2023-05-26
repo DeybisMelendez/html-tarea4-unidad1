@@ -1,0 +1,15 @@
+body {
+    margin:20px;
+    font-family: Verdana;
+}
+
+p, label {
+    font-family: Tahoma;
+}
+
+.width {
+    width: 200px;
+}
+.email {
+    background-color: #eeeeee;
+}
